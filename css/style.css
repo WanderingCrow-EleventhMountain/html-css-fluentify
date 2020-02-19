@@ -103,6 +103,20 @@ header {
   /* debug rules */
   height: 130px;
   /* end debug rules */
+  padding: 40px 20px 30px 20px;
+}
+
+.info h4{
+  font-weight: 300;
+  margin-top: -10px;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.info p {
+  font-size: 18px;
+  font-weight: 300;
+  color: #999;
 }
 
 /* FINE GRUPPO GRIGI */
