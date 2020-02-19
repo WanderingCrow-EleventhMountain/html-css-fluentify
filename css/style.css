@@ -125,12 +125,53 @@ header {
 
 article {
   background-color: #00000;
+  width: 100%;
   /* debug rules */
-  height: 500px;
+  height: 320px;
   /* end debug rules */
 }
 
-/* GRUPPO BIANCHI */
+article li {
+  text-align: center;
+  width: 420px;
+  display: inline-block;
+}
+
+.fotina {
+  margin-bottom: 30px;
+}
+
+.b1 {
+  height: 380px;
+  float: left;
+
+}
+
+.b1 ul {
+  margin-left: 40px;
+}
+
+.b1 h6 {
+  color: #7fb802;
+  font-size: 23px;
+  margin-bottom: 15px;
+}
+
+.b1 hr {
+  opacity: .3;
+  width: 32px;
+  border-top: 2px solid;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.b1 p {
+  margin-bottom: 15px;
+  color: #999;
+}
+
+
+/* FINE GRUPPO BIANCHI */
 
 /* GRUPPO BLU */
 
