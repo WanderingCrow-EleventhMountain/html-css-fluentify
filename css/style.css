@@ -6,12 +6,14 @@
 
 /* SEZIONE HEADER */
 
+/* SOTTOSEZIONE NAV */
+
 header {
   background-color: #0d325a;
   font-weight: 800;
   color: white;
   /* debug rules */
-  height: 460px;
+  height: 459px;
   /* end debug rules */
 }
 
@@ -61,6 +63,32 @@ header {
   background-color: #7fb802;
   padding: 8px 25px;
   margin-right: 50px;
+}
+
+/* FINE SOTTOSEZIONE NAV */
+
+.scrittalogo {
+  width: 800px;
+  position: absolute;
+  top: 180px;
+  left: 40px;
+  font-size: 1.5em;
+}
+
+.bv a{
+  background-color: #7fb802;
+  padding: 10px 25px;
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  left: 40px;
+  top: 310px;
+}
+
+.banner {
+  float: right;
+  padding-top: 37px;
 }
 
 /* FINE SEZIONE HEADER */
