@@ -3,12 +3,22 @@
   padding: 0px;
   margin: 0px;
 }
+
+/* SEZIONE HEADER */
+
 header {
   background-color: #0d325a;
   /* debug rules */
   height: 460px;
   /* end debug rules */
 }
+
+/* FINE SEZIONE HEADER */
+
+/* INIZIO MAIN PAGE */
+
+/* GRUPPO GRIGI  */
+
 .info {
   background-color: #f9f9f9;
   text-align: center;
@@ -16,18 +26,33 @@ header {
   height: 130px;
   /* end debug rules */
 }
+
+/* FINE GRUPPO GRIGI */
+
+/* GRUPPO BIANCHI */
+
 article {
   background-color: #00000;
   /* debug rules */
   height: 500px;
   /* end debug rules */
 }
+
+/* GRUPPO BIANCHI */
+
+/* GRUPPO BLU */
+
 .blu {
   background-color: #0d325a;
   /* debug rules */
   height: 480px;
   /* end debug rules */
 }
+
+/* FINE GRUPPO BLU */
+
+/* FINE PAGINA */
+
 .endpage {
   background-color: #0f335a;
   /* debug rules */
