@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  background-color: #0d325a;
+  /* debug rules */
+  height: 460px;
+  /* end debug rules */
+}
+.info {
+  background-color: #f9f9f9;
+  text-align: center;
+  /* debug rules */
+  height: 130px;
+  /* end debug rules */
+}
+article {
+  background-color: #00000;
+  /* debug rules */
+  height: 500px;
+  /* end debug rules */
+}
+.blu {
+  background-color: #0d325a;
+  /* debug rules */
+  height: 480px;
+  /* end debug rules */
+}
+.endpage {
+  background-color: #0f335a;
+  /* debug rules */
+  height: 135px;
+  /* end debug rules */
+}
+footer {
+  background-color: #17406b;
+  /* debug rules */
+  height: 400px;
+  /* end debug rules */
+}
